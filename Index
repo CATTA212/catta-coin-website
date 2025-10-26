@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catta Coin - Crypto Masa Depan</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<header>
+  <h1>Catta Coin</h1>
+  <nav>
+    <a href="#about">Tentang</a>
+    <a href="#roadmap">Roadmap</a>
+    <a href="#team">Tim</a>
+    <a href="#faq">FAQ</a>
+    <a href="#buy">Beli Sekarang</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h2>Selamat Datang di Catta Coin</h2>
+  <p>Mata uang digital yang aman, cepat, dan inovatif untuk masa depan crypto.</p>
+  <a href="#about" class="btn">Pelajari Lebih Lanjut</a>
+</section>
+
+<section id="about">
+  <h2>Tentang Catta Coin</h2>
+  <p>Catta Coin adalah cryptocurrency yang dirancang untuk mempermudah transaksi digital dengan biaya rendah dan keamanan tinggi.</p>
+  <canvas id="priceChart"></canvas>
+</section>
+
+<section id="roadmap">
+  <h2>Roadmap</h2>
+  <div class="cards">
+    <div class="card"><h3>Q1 2026</h3><p>Peluncuran whitepaper dan website resmi.</p></div>
+    <div class="card"><h3>Q2 2026</h3><p>Listing di exchange lokal dan awal kampanye komunitas.</p></div>
+    <div class="card"><h3>Q3 2026</h3><p>Integrasi wallet dan fitur staking.</p></div>
+    <div class="card"><h3>Q4 2026</h3><p>Ekspansi global dan kemitraan strategis.</p></div>
+  </div>
+</section>
+
+<section id="team">
+  <h2>Tim Kami</h2>
+  <div class="cards">
+    <div class="card"><h3>Alice</h3><p>CEO & Founder</p></div>
+    <div class="card"><h3>Bob</h3><p>CTO</p></div>
+    <div class="card"><h3>Charlie</h3><p>Community Manager</p></div>
+  </div>
+</section>
+
+<section id="faq">
+  <h2>FAQ</h2>
+  <div class="cards">
+    <div class="card"><h3>Apa itu Catta Coin?</h3><p>Mata uang digital yang aman dan cepat.</p></div>
+    <div class="card"><h3>Bagaimana cara membeli?</h3><p>Dapat dibeli melalui exchange resmi.</p></div>
+    <div class="card"><h3>Apakah aman?</h3><p>Menggunakan teknologi blockchain terbaru dan enkripsi tinggi.</p></div>
+  </div>
+</section>
+
+<section id="buy">
+  <h2>Beli Catta Coin Sekarang</h2>
+  <p>Klik tombol di bawah untuk membeli melalui exchange resmi.</p>
+  <a href="https://example.com" class="btn">Beli Sekarang</a>
+</section>
+
+<footer>
+  &copy; 2025 Catta Coin. Semua hak dilindungi.
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
